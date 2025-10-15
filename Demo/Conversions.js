@@ -5,7 +5,7 @@
  * Sources: 
  * https://www.w3schools.com/js/js_type_conversion.asp 
  * https://www.w3schools.com/js/js_datatypes.asp - JS Data types
- * 
+ * https://www.freecodecamp.org/news/javascript-type-checking-how-to-check-type-in-js-with-typeof/ - type checking
  */
 
 // # code runner |       node "Demo\Conversions.js"
