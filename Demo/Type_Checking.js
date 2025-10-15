@@ -32,16 +32,11 @@ main() // main function call
 // ===================================================================>
 //# Type Checking and Conversions
 
-
-
 class TypeChecking{
 
 }
 
-
-
-
-    // run all functions here
+// run all functions here
 function main(){
 
 

@@ -6,7 +6,7 @@
     All basic variables, primitives data structres, functions and basic 
     - encapsulation will be contained on this file
 
-    For better visuals, we highly recommend all users to install "better comments" vs code extension via: 
+    For better visuals, we highly recommend  installing "better comments" VS-code extension via: 
     https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments
 
     and change the comment-tags.json file source code from the settings according to the following:
@@ -28,7 +28,7 @@
         /// One characteristic of Java script is it being weakly typed and nominal - meaning
         /// every variables are only specified using a variable specifier (never a type) and dynamically 
         /// determines the data type that could change along the run time
-        /// -- The JS superset - Type script - supports Types on writing source codes
+        /// -- The JS superset - Type script - supports explicit types
 //-- ================================================================================================
 
 // Running main method like in other OOP languages
@@ -46,7 +46,7 @@ class Demo{
         const VALUE = 12;
         const VALID = true;
 
-        // using "let" -- Only accessible within this code blocl
+        // using "let" -- Only accessible within this code block
 
         let a = 10;                              // number (int)                                        
         let b= 10.1                              // float 
@@ -68,7 +68,7 @@ class Demo{
             BLUE: "blue "
         }
 
-        // Using "var" --- ignores '{}' in scoping - accessible outside of this code scope
+        // Using "var" --- ignores '{}' in scoping, making a variable accessible outside of this code scope
 
         var h = 10;
         var i= 10.1

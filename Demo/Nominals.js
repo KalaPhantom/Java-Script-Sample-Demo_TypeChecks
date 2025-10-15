@@ -1,7 +1,7 @@
 
 //-- =====================================================================
 /**
- * Description: Nominals
+ * Description: Nominal Structure 
  * 
  * 
  * 
