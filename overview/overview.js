@@ -3,13 +3,13 @@
 //-- ===============================================================================================
 /* -- About this snippet
     All code blocks here is intended solely for demonstration only -    //-- This SC produces no output when executed
-    All basic variables, primitive data strucutres, functions and basic 
+    All basic variables, primitives data structres, functions and basic 
     - encapsulation will be contained on this file
 
     For better visuals, we highly recommend all users to install "better comments" vs code extension via: 
     https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments
 
-    and change the comment-tags.json file soruce code from the settings according to the following
+    and change the comment-tags.json file source code from the settings according to the following:
     1.) '?' to '#' 
     2.) "TODO" to "--"
 

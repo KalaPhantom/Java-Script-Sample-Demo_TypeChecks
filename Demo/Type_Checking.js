@@ -1,6 +1,7 @@
 //--===============================================================
+
 /** Overview
- * This code snippet contains all demonstration for Conversion, Inferences and Type Checking
+ * This code snippet contains all demonstration for Type Checking
  * Some lines are commented for it is intended to produce errors (for demonstration)
  * 
  
@@ -28,37 +29,23 @@
 
 main() // main function call
 
-
-
 // ===================================================================>
 //# Type Checking and Conversions
 
-class Conversions{
 
-}
 
 class TypeChecking{
 
 }
 
 
-//====================================================================>
-
-//#
-
-class Class1{
-
-}
-
-class Class2{
-
-}
-
-// ====================================================================>
 
 
     // run all functions here
 function main(){
+
+
+
 
 }
 
