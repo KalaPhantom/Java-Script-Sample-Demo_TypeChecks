@@ -4,9 +4,9 @@
 /* -- About this snippet
     All code blocks here is intended solely for demonstration only -    //-- This SC produces no output when executed
     All basic variables, primitive data strucutres, functions and basic 
-    - encapsulation will be contained on this fil
+    - encapsulation will be contained on this file
 
-    For better visuals, we highly suggest all users to install "better comments" vs code extension
+    For better visuals, we highly recommend all users to install "better comments" vs code extension via: 
     https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments
 
     and change the comment-tags.json file soruce code from the settings according to the following
@@ -24,7 +24,7 @@
             "italic": false
         },
  */
-
+        /// **JS Overview
         /// One characteristic of Java script is it being weakly typed and nominal - meaning
         /// every variables are only specified using a variable specifier (never a type) and dynamically 
         /// determines the data type that could change along the run time
@@ -117,39 +117,6 @@ class Main{
         a.Declare_variables(); // function is called to show that theres no error in the typing
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
